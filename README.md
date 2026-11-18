@@ -7,3 +7,6 @@
 - Adicionar um repositório público com o seu README.md utilizando o GitHub.dev;
 - Adicionar colaboradores, e praticar formatação Markdown para instruções e descrição do projeto;
 - Realizar alterações, Commits, abrir issues e pull requests para experimentar os processos de colaboração no Git.
+
+- Paulo
+Adicionei um arquivo index.html no projeto.
