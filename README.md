@@ -8,5 +8,9 @@
 - Adicionar colaboradores, e praticar formatação Markdown para instruções e descrição do projeto;
 - Realizar alterações, Commits, abrir issues e pull requests para experimentar os processos de colaboração no Git.
 
+### Alterações
 - Paulo
 Adicionei um arquivo index.html no projeto.
+
+- Pedro
+Detalhei o index.html com informações extras e adicionei features.
