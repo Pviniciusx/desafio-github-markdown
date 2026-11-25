@@ -9,8 +9,10 @@
 - Realizar alterações, Commits, abrir issues e pull requests para experimentar os processos de colaboração no Git.
 
 ### Alterações
-- Paulo
-Adicionei um arquivo index.html no projeto.
+- **Paulo**
+  - Adicionou o arquivo `index.html` ao projeto.
+  - Adicionou a estrutura de estilos em `style.css`.
 
-- Pedro
-Detalhei o index.html com informações extras e adicionei features.
+- **Pedro**
+  - Adicionou um resumo do projeto ao `index.html`, com os principais aprendizados e recursos utilizados.
+  - Criou um botão interativo em `script.js` que altera seu texto após o clique.

@@ -3,7 +3,7 @@ const button = document.createElement("button");
 button.type = "button";
 button.textContent = "Clique aqui";
 button.addEventListener("click", () => {
-    button.textContent = "Você clicou!";
+    window.location.href = "https://github.com/Pviniciusx/desafio-github-markdown";
 });
 
 document.body.appendChild(button);
